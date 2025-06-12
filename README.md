@@ -1,6 +1,6 @@
 # e2MPRA_analysis
 
-This repository provides analysis scripts for the e2MPRA study, implemented in Python. The code supports quality control, normalization, and visual/statistical analyses of MPRA and epigenomic data (ATAC-seq, CUT&Tag).
+This repository contains analysis scripts for the e2MPRA study, implemented in Python. The code supports quality control, normalization, and both visual and statistical analyses of MPRA and epigenomic datasets (including ATAC-seq and CUT&Tag). The uploaded scripts have been refactored using Claude Sonnet4, with improvements including added comments, function explanations, and minor code modifications.
 
 > **Note**: This repository includes Python source files in the `src` directory. Data visualization and figure generation for publication are carried out in the `ipynb` directory using Jupyter Notebooks.
 
