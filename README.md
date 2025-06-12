@@ -14,7 +14,9 @@ e2MPRA_analysis/
 │ ├── HepG2lib_analysis.py
 │ └── WTC11lib_analysis.py
 ├── ipynb/
-│ └── [figure-generating notebooks]
+│ ├─── ctlLib_analysis.ipynb
+│ ├─── HepG2lib_analysis.ipynb
+│ └── WTC11lib_analysis.ipynb
 └── data/
 　└── [input data files]
 ```
@@ -62,7 +64,7 @@ All scripts are written in Python and require the following packages:
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `statsmodels`, `scipy`
 - `statannotations`, `networkx` (for HepG2 analysis)
-- `scikit-learn` (optional for some visualization utilities)
+- `scikit-learn` (some visualization utilities)
 
 ## License
 
